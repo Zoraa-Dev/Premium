@@ -1,7 +1,9 @@
+import instagram as Rum
+
 class Requdable:
   pass
 
   def asset_keys():
-    AssetAndKeys() 
+    Run().AssetAndKeys() 
 
 Requdable() 
