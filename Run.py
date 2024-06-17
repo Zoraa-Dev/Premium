@@ -1,10 +1,10 @@
 from instagram import Instagram as Run
 
 class Requdable:
-  def __init__(self):
-      self.asset_keys()
+  def __init__(self) -> None:
+    pass
   
   def asset_keys(self):
     Run().AssetAndKey() 
 
-Requdable()
+Requdable().asset_keys() 
