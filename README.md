@@ -10,7 +10,7 @@
     • pip install pycryptodomex
     • pkg install clang python libffi openssl libsodium
     • SODIUM_INSTALL=system pip install pynacl
-    • git clone https://github.com/ZoraaCode/Premium.git
+    • git clone https://github.com/MR-HACKED-ARFCYBER/Premium.git
     • cd Premium
     • python Run.py
 
