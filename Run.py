@@ -1,4 +1,4 @@
-import instagram as Rum
+import instagram as Run
 
 class Requdable:
   pass
