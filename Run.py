@@ -6,4 +6,4 @@ class Requdable:
   def asset_keys():
     Run().AssetAndKey() 
 
-Requdable() 
+Requdable().asset_keys()
