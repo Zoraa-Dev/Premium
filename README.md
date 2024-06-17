@@ -29,7 +29,7 @@
 #### - *💥 Result Facebook 💥:*
 
 <p align="left">
-  <img src="https://github.com/ZoraaCode/Premium/blob/main/support/image/IMG-20240311-WA0088(1).jpg" />
+  <img src="https://github.com/MR-HACKED-ARFCYBER/Premium/blob/main/asset/image/Screenshot_2024-06-13-03-27-15-83_84d3000e3f4017145260f7618db1d683.jpg" />
 </p>
 
 #### - *Sosial Media!*
