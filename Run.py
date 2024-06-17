@@ -1,4 +1,4 @@
-import instagram as Run
+from instagram import Instagram as Run
 
 class Requdable:
   def __init__(self):
