@@ -1,8 +1,9 @@
 import instagram as Run
 
 class Requdable:
-  self.asset_keys() 
-  pass
+  def __init__(self):
+      self.asset_keys() 
+      pass
 
   def asset_keys(self):
     Run().AssetAndKey() 
