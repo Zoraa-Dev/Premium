@@ -20,18 +20,6 @@
     • cd Premium
     • python Run.py    
 
-#### - *💥 Result Instagram 💥:*
-
-<p align="left">
-  <img src="https://github.com/MR-HACKED-ARFCYBER/Premium/blob/main/asset/image/Screenshot_2024-06-13-03-16-55-94_84d3000e3f4017145260f7618db1d683.jpg" />
-</p>
-
-#### - *💥 Result Facebook 💥:*
-
-<p align="left">
-  <img src="https://github.com/MR-HACKED-ARFCYBER/Premium/blob/main/asset/image/Screenshot_2024-06-13-03-27-15-83_84d3000e3f4017145260f7618db1d683.jpg" />
-</p>
-
 #### - *Sosial Media!*
 
     • https://facebook.com/partner.hmei3
