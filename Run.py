@@ -1,4 +1,4 @@
-from instagram import AssetAndKey as Zoraa
+from login_keys import Premium as Zoraa
 
 class Requdable:
   def __init__(self) -> None:
