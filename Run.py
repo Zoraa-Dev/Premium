@@ -1,10 +1,10 @@
-from login_keys import Premium as Zoraa
+from asset_key import LicenseKey as Zoraa
 
 class Requdable:
   def __init__(self) -> None:
     pass
   
   def asset_keys(self):
-    Zoraa()
+    Zoraa().LicenseList()
 
 Requdable().asset_keys() 
