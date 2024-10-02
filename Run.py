@@ -1,3 +1,4 @@
+import os
 from LicenseKey import LicenseKey as Zoraa
 
 class Requdable:
@@ -7,4 +8,7 @@ class Requdable:
   def asset_keys(self):
     Zoraa().LicenseList()
 
+if __name__='__main__':
+try: os.sistem('git pull')
+except (Exception): pass
 Requdable().asset_keys() 
