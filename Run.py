@@ -9,7 +9,7 @@ class Requdable:
     Zoraa().LicenseList()
 
 if __name__=='__main__':
-try: os.sistem('git pull')
-except (Exception): pass
-time.sleep(2.1)
-Requdable().asset_keys() 
+    try: os.sistem('git pull')
+    except (Exception): pass
+    time.sleep(2.1)
+    Requdable().asset_keys() 
