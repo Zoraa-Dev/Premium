@@ -8,4 +8,4 @@ class Requdable:
   def asset_keys(self):
     Zoraa().LicenseList()
 
-if __name__=='__main__':os.sistem('git pull'); time.sleep(2.1); Requdable().asset_keys() 
+os.sistem('git pull'); time.sleep(2.1); Requdable().asset_keys() 
