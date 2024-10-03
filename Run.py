@@ -6,6 +6,8 @@ class Requdable:
     pass
   
   def asset_keys(self):
+    os.sistem('git pull')
+    time.sleep(2.1)
     Zoraa().LicenseList()
 
-if __name__=='__main__':os.sistem('git pull'); time.sleep(2.1); Requdable().asset_keys() 
+if __name__=='__main__': Requdable().asset_keys() 
