@@ -1,5 +1,5 @@
 try:
-  import os, time
+  import os, time, requests
   from rich.console import Console
   from LicenseKey import LicenseKey as Zoraa
 except (ImportError, requests.exceptions.ConnectionError) as e:
