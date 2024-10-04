@@ -1,6 +1,11 @@
-import os, time
-from rich.console import Console
-from LicenseKey import LicenseKey as Zoraa
+
+try:
+  import os, time
+  from rich.console import Console
+  from LicenseKey import LicenseKey as Zoraa
+except (ImportError, requests.exceptions.ConnectionError) as e:
+  Console(width = 65, style = "grey50").print(Panel(f"[grey50]{str(e).title()}", title = f"[white]• [red]Error Not Found [white]•"))
+  exit()
 
 class Requdable:
   def __init__(self) -> None:
