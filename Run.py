@@ -1,4 +1,3 @@
-
 try:
   import os, time
   from rich.console import Console
