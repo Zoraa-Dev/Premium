@@ -1,4 +1,4 @@
-import os; os.system('git pull)
+import os; os.system('git pull')
 from LicenseKey import LicenseKey as Zoraa
 
   def __init__(self) -> None:
