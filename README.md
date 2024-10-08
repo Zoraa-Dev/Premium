@@ -42,7 +42,7 @@ This Program is developed using SSL Program ini dikembangkan menggunakan metode 
     $ python Run.py
     ```
 ## Screenshots
-![FunPic_20240808](https://github.com/user-attachments/assets/01bb0962-f50b-4d35-8533-53fe74684572)
+![FunPic_20240808](https://github.com/Zoraa-Dev/Premium/blob/main/Penyimpanan/Screenshoot/IMG-20241003-WA0021.jpg)
 
 ## Warning
 Sebagai pengembang alat ini, penting untuk memahami bahwa penggunaan perangkat lunak ini sepenuhnya merupakan risiko Anda sendiri. Saya tidak bertanggung jawab atas hasil apa pun, baik yang disengaja maupun tidak, yang mungkin timbul dari penggunaan alat ini. Pastikan Anda menggunakannya secara bertanggung jawab dan sesuai dengan hukum dan peraturan yang berlaku. Selalu berhati-hati dan buat keputusan yang tepat untuk menghindari potensi masalah.
