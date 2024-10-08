@@ -17,7 +17,7 @@ This Program is developed using SSL Program ini dikembangkan menggunakan metode 
 
 <details>
     <summary>Show Features Instagram</summary>
-    <img src="https://github.com/user-attachments/assets/26b01a63-35f5-40ad-b4c8-54a859159645" alt="Premium Features 1">
+    <img src="https://github.com/Zoraa-Dev/Premium/blob/main/Penyimpanan/Screenshoot/Screenshot_2024-10-08-19-59-41-991_com.termux.jpg" alt="Premium Features 1">
 </details>
 
 <details>
