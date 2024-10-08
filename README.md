@@ -1,5 +1,5 @@
 # Instagram And Facebook Brute Force Premium - From Indonesia
-<p align="center"><img src="https://github.com/user-attachments/assets/12848aa1-8445-4202-9cb8-760e37655e0e" alt="Premium Image"/></p>
+<p align="center"><img src="https://github.com/Zoraa-Dev/Premium/blob/main/Penyimpanan/Screenshoot/Facebook-Instagram-Logos-Staggered-1400x700.jpg" alt="Premium Image"/></p>
 <div align="center">
     <p>
         <img src="https://img.shields.io/badge/Author-Zoraa Dev-blue?style=flat-square" alt="Author Badge">
