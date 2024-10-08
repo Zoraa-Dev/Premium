@@ -22,7 +22,7 @@ This Program is developed using SSL Program ini dikembangkan menggunakan metode 
 
 <details>
     <summary>Show Features Facebook</summary>
-    <img src="https://github.com/user-attachments/assets/c6998060-2842-41e6-a60e-03819b990667" alt="Premium Features 2">
+    <img src="https://github.com/Zoraa-Dev/Premium/blob/main/Penyimpanan/Screenshoot/Screenshot_2024-10-08-20-01-50-740_com.termux.jpg" alt="Premium Features 2">
 </details>
 
 ## Installation
