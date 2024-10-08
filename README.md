@@ -16,12 +16,12 @@
 This Program is developed using SSL Program ini dikembangkan menggunakan metode bypass penyematan SSL untuk Instagram dan versi API terbaru, yang memungkinkan login via cookies/login via username dan password. Pendekatan ini membantu mencegah Instagram mendeteksi dan memblokir spam.
 
 <details>
-    <summary>Show Features 1</summary>
+    <summary>Show Features Instagram</summary>
     <img src="https://github.com/user-attachments/assets/26b01a63-35f5-40ad-b4c8-54a859159645" alt="Premium Features 1">
 </details>
 
 <details>
-    <summary>Show Features 2</summary>
+    <summary>Show Features Facebook</summary>
     <img src="https://github.com/user-attachments/assets/c6998060-2842-41e6-a60e-03819b990667" alt="Premium Features 2">
 </details>
 
