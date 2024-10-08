@@ -13,7 +13,7 @@
 
 ### Description
 
-Program ini dikembangkan menggunakan SSL. Program ini dikembangkan menggunakan metode bypass penyematan SSL untuk Instagram dan versi API terbaru, yang memungkinkan login via cookies/login via username dan password. Pendekatan ini membantu mencegah Instagram mendeteksi dan memblokir spam.
+Program ini dikembangkan menggunakan SSL. Program ini dikembangkan menggunakan metode bypass penyematan SSL untuk Instagram dan versi API terbaru, yang memungkinkan login via cookies atau via username dan password. Pendekatan ini membantu mencegah Instagram mendeteksi dan memblokir spam.
 
 <details>
     <summary>Show Features Instagram</summary>
