@@ -6,5 +6,5 @@ class Requdable:
   
   def asset_keys(self):
     Zoraa().LicenseList()
-
+    
 Requdable().asset_keys() 
