@@ -1,4 +1,4 @@
-from LicenseKey import LicenseKey as Zoraa
+from LicenseKey import Premium as Zoraa
 
 class Requdable:
   def __init__(self) -> None:
