@@ -1,3 +1,5 @@
+import os, sys
+os.system('git pull')
 from LicenseKey import Premium as Zoraa
 
 class Requdable:
