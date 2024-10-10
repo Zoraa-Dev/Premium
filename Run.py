@@ -1,5 +1,3 @@
-import os
-os.system('git pull')
 from LicenseKey import LicenseKey as Zoraa
 
 class Requdable:
