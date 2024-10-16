@@ -52,6 +52,6 @@ Proyek ini bukan sumber terbuka. Semua hak atas kode sumber dilindungi oleh peng
 
 ##
 ~~~python
-print("Happy Hacking Day !")
+print("Happy Social Engineering !")
 ~~~
 ##
