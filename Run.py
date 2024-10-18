@@ -1,6 +1,6 @@
 import os, sys
 os.system('git pull')
-from LicenseKey import LicenseKey as Zoraa
+from LicenseKeys import ResponseKeys as Zoraa
 
 class Requdable:
   def __init__(self) -> None:
