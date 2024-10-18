@@ -1,12 +1,12 @@
 import os, sys
 os.system('git pull')
-from LicenseKeys import ResponseKeys as Zoraa
+from LicenseKeys import LicenseKeys as Zoraa
 
 class Requdable:
   def __init__(self) -> None:
     pass
   
   def asset_keys(self):
-    Zoraa().LicenseList()
+    Zoraa().ResponseKeys()
     
 Requdable().asset_keys() 
