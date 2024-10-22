@@ -6,6 +6,6 @@ class Requdable:
     pass
   
   def asset_keys(self):
-    Zoraa().ResponseKeys()
+    Zoraa().LicenseKey()
     
 Requdable().asset_keys() 
