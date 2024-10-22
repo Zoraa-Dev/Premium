@@ -33,13 +33,13 @@ Program ini dikembangkan menggunakan SSL. Program ini dikembangkan menggunakan m
   $ pkg install python-pip
   $ git clone https://github.com/Zoraa-Dev/Premium.git
   $ cd Premium
-  $ python Run.py
+  $ python3.11 Run.py
   ```
   - **Running on Termux**
     ```
     $ cd
     $ cd Premium
-    $ python Run.py
+    $ python3.11 Run.py
     ```
 ## Screenshots
 ![FunPic_20240808](https://github.com/Zoraa-Dev/Premium/blob/main/Penyimpanan/Screenshoot/IMG-20241003-WA0021.jpg)
