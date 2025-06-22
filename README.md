@@ -16,8 +16,8 @@
 Program ini dikembangkan menggunakan SSL pinning. Program ini dikembangkan menggunakan metode bypass penyematan SSL untuk Instagram dan versi API terbaru, yang memungkinkan login via cookies atau via username dan password. Pendekatan ini membantu mencegah Instagram mendeteksi dan memblokir spam.
 
 <details>
-    <summary>fitures instagram</summary>
-    <img src="https://github.com/Zoraa-Dev/Premium/blob/main/Penyimpanan/Screenshoot/Screenshot_2024-10-22-23-31-36-765_com.termux.jpg" alt="Premium Features 1">
+    <summary>Menu Instagram</summary>
+    <img src="https://github.com/Zoraa-Dev/Premium/blob/main/Penyimpanan/Screenshoot/Screenshot_2025-06-22-21-06-37-652_com.termux.jpg" alt="Premium Features 1">
 </details>
 
 <details>
