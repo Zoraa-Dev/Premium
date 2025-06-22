@@ -13,7 +13,7 @@
 
 ### Description
 
-Program ini dikembangkan menggunakan SSL. Program ini dikembangkan menggunakan metode bypass penyematan SSL untuk Instagram dan versi API terbaru, yang memungkinkan login via cookies atau via username dan password. Pendekatan ini membantu mencegah Instagram mendeteksi dan memblokir spam.
+Program ini dikembangkan menggunakan SSL pinning. Program ini dikembangkan menggunakan metode bypass penyematan SSL untuk Instagram dan versi API terbaru, yang memungkinkan login via cookies atau via username dan password. Pendekatan ini membantu mencegah Instagram mendeteksi dan memblokir spam.
 
 <details>
     <summary>fitures instagram</summary>
@@ -33,13 +33,13 @@ Program ini dikembangkan menggunakan SSL. Program ini dikembangkan menggunakan m
   $ pkg install python-pip
   $ git clone https://github.com/Zoraa-Dev/Premium.git
   $ cd Premium
-  $ python3.11 Run.py
+  $ python Main.py
   ```
   - **Running on Termux**
     ```
     $ cd
     $ cd Premium
-    $ python3.11 Run.py
+    $ python Main.py
     ```
 ## Screenshots
 ![FunPic_20240808](https://github.com/Zoraa-Dev/Premium/blob/main/Penyimpanan/Screenshoot/IMG-20241003-WA0021.jpg)
