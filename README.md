@@ -21,8 +21,8 @@ Program ini dikembangkan menggunakan SSL pinning. Program ini dikembangkan mengg
 </details>
 
 <details>
-    <summary>fitures facebook</summary>
-    <img src="https://github.com/Zoraa-Dev/Premium/blob/main/Penyimpanan/Screenshoot/Screenshot_2024-10-22-23-20-16-537_com.termux.jpg" alt="Premium Features 2">
+    <summary>Menu Facebook</summary>
+    <img src="https://github.com/Zoraa-Dev/Premium/blob/main/Penyimpanan/Screenshoot/Screenshot_2025-06-22-21-09-05-363_com.termux.jpg" alt="Premium Features 2">
 </details>
 
 ## Installation
